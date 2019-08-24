@@ -62,15 +62,23 @@ img{
 
 .contenedor{
     display: inline-block;
-    
+    text-align: center;
 }
 
-.parrafos{
+.parrafo1{
     text-align: justify;
     width: 250px;
     display: inline-block;
-    margin-right: 50px;
-    margin-left: 300px;    
+    padding-right: 0px;
+    margin-left: 450px;    
+}
+
+.parrafo2{
+    text-align: justify;
+    width: 250px;
+    display: inline-block;
+    padding-right: 0px;
+    margin-left: 50px; 
 }
 
 a{
