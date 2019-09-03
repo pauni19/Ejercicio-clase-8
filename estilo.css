@@ -29,6 +29,10 @@ h1{
     position: fixed;
 }
 
+h4{
+    margin-right: 10px;
+}
+
 .seccionppal{
     text-align: center;
     background-color: #1abc9c;
